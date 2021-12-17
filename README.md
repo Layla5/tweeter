@@ -7,6 +7,7 @@ Desktop
 <img width="1262" alt="tweet-box" src="https://user-images.githubusercontent.com/19592411/146602491-01ab36c7-3bc8-4aae-9fc6-6f33044f9b32.png">
 
 Mobile
+
 <img width="626" alt="mobile" src="https://user-images.githubusercontent.com/19592411/146602510-a73faace-bef3-4dbc-ac0f-dfd4aecf5cc0.png">
 
 Error message 
